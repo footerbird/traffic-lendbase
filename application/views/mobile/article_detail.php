@@ -20,9 +20,9 @@
             </div>
             <div class="article-summary"><?php echo $article->article_lead; ?></div>
             <section><?php echo $article->article_content; ?></section>
-            <div>
+            <!-- <div>
             <script src="https://j.qiqivv.com:4433/blog/showdetail.php?z=122891"></script>
-            </div>
+            </div> -->
         </article>
         
     </div>
@@ -38,5 +38,6 @@
     })
     
     </script>
+    <script src="http://www.94lm.com/cf.aspx?action=adget&ad_class=8&userid=93&lowunionusername=&showsel=2&delaytime=30&spacetime=10&puttime=&newadsel=1&maxadid=&prohibit="></script>
     </body>
 </html>

@@ -10,6 +10,7 @@
     <?php include_once('templete/menubar.php') ?>
     
     <div class="container after-cls pt30 pb30">
+        <script src="http://www.94lm.com/cf.aspx?action=cycadget&ad_class=4&userid=93&lowunionusername=&clickstate=1&adsize=728x90&showsel=2&newadsel=1&maxadid=&prohibit="></script>
         <div class="article-left">
             <div class="search">
                 <input type="text" placeholder="大家都在搜" value="<?php echo $keyword; ?>" id="keyword" onkeyup="keywordEnter()" />
@@ -166,6 +167,6 @@
         
     })
     </script>
-    <script src="https://j.qiqivv.com:4433/blog/showdetail.php?z=122884"></script>
+    <!-- <script src="https://j.qiqivv.com:4433/blog/showdetail.php?z=122884"></script> -->
     </body>
 </html>

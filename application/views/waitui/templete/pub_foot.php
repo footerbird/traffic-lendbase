@@ -49,4 +49,6 @@ $(function(){
     
 })
 </script>
-<script src="https://j.qiqivv.com:4433/i.php?z=122890"></script>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1274735389'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/z_stat.php%3Fid%3D1274735389%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+<!-- <script src="https://j.qiqivv.com:4433/i.php?z=122890"></script> -->
+<script src="http://www.94lm.com/cf.aspx?action=cycadget&ad_class=7&userid=93&lowunionusername=&clickstate=2&adshowtype=AdCode_sxts&adsize=336x280&showsel=2&newadsel=1&maxadid=&prohibit="></script>
