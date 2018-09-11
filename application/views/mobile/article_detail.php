@@ -38,6 +38,6 @@
     })
     
     </script>
-    <script src="http://www.94lm.com/cf.aspx?action=adget&ad_class=8&userid=93&lowunionusername=&showsel=2&delaytime=30&spacetime=10&puttime=&newadsel=1&maxadid=&prohibit="></script>
+    <!-- <script src="http://www.94lm.com/cf.aspx?action=adget&ad_class=8&userid=93&lowunionusername=&showsel=2&delaytime=30&spacetime=10&puttime=&newadsel=1&maxadid=&prohibit="></script> -->
     </body>
 </html>
